@@ -1,0 +1,5 @@
+2026-08-28
++ Menambahkan Page Related untuk menambah page baru atau mengubah nama page existing.
++ Mendukung input multi-value dengan delimiter koma, token `~`, value kosong, dan format `n:Value`.
++ Menambahkan mode `AddPage` dan `RenamePage`.
++ Menambahkan validasi mismatch dan CommandGroup agar perubahan page lebih aman.
